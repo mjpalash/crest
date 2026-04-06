@@ -1,7 +1,7 @@
 # Host institution (appears in header, footer, flyer)
 host:
-  name: "Your University"
-  logo: "/assets/images/organisers/host-logo.svg"
+  name: "Palash University"
+  logo: "/assets/images/organisers/palash-logo.webp"
   url: "https://example.edu"
 
 # Partner organisations (appear in header, footer, flyer)
