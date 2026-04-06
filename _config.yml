@@ -1,7 +1,7 @@
 title: "ACM COMPUTE Regional"
 description: "Regional event for computing educators and researchers"
-url: "https://acm-cre.github.io"
-baseurl: ""
+#url: "https://acm-cre.github.io"
+baseurl: "/crest"
 
 lang: en
 
